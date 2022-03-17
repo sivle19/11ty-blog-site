@@ -3,7 +3,7 @@ title: Motivational words from a peaceful man.
 description: Get UP!!!
 author: Sivle El-Roy
 date: 2021-05-01
-image: https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.twilight-zone.nl%2FWebRoot%2FPins%2FShops%2FTwilightzone%2F5F2E%2FB776%2F77F5%2F400A%2F415F%2F0A0C%2F05B7%2F29D7%2FSS300750_0_ml.jpg&sp=1647513045T88669a9f74397c803fbc2f6045cd9f915082dfa3ca6f2eeaac5606cabb0da5c7
+image: https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcTyG-7IiL-81P9wDUHs4ATFI2z1kDK02ou3I35MAdsv8aq9Eps%26s&sp=1647521528T6041e20c1f89701d6f5384da7398add2cd5c43be00409e689c5f756f6b4da054
 imageAlt: This is a test
 tags:
   - post
